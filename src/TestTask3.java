@@ -13,7 +13,7 @@ public class TestTask3 {
             rationals[i] = new Rational(n, d);
         }
 
-        System.out.println("Первые 5 сгенерированных чисел ");
+        System.out.println("Первые 5 сгенерированных чисел");
         for(int i=0; i<5; i++) System.out.print(rationals[i] + "  ");
         System.out.println("\n");
 
